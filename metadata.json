@@ -1,0 +1,6 @@
+{
+  "name": "Travel Expense Splitter",
+  "description": "Manage travel expenses, split costs with friends, track shared budgets, convert currencies, view visual reports, and export PDF summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
